@@ -1,0 +1,21 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Xed-Editor/Xed-Schemas/main/theme-manifest.json",
+  "id": "com.magisk.firefoxtheme",
+  "name": "Firefox Theme",
+  "version": "0.1.0",
+  "description": "A theme based on Mozilla Firefox developer tools colors for Xed-Editor",
+  "type": "theme",
+  "author": {
+    "displayName": "Magisk",
+    "github": "MagiskVII"
+  },
+  "repository": "https://github.com/MagiskVII/xed-themes",
+  "license": "MIT",
+  "tags": [
+    "dark",
+    "light",
+    "theme"
+  ],
+  "minAppVersion": 107,
+  "inheritBase": true
+}
